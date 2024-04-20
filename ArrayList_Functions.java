@@ -16,8 +16,8 @@ Functions List
 (3)arraylistObject.set(postion,value)
 (4)remove(position)
 (5)arrayListObject.size() - gives the number of values of the arrayList
-(6)Sorting the arraylist:
-   Collections.sort(ArrayListObject)
+(6)Collections.sort(ArrayListObject) - Sorts the arraylist in ascending order
+   
  */
 import java.util.ArrayList;
 import java.util.Collections;
