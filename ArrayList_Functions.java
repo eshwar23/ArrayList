@@ -59,7 +59,7 @@ class ArrayList_Functions
         System.out.println("ArrayList after removing 2nd value-rita");
         System.out.println(friends);
         
-        /*Loop through ArrayList*/
+        /*traverse through ArrayList using loop*/
         
         for (int i = 0; i < friends.size(); i++) 
         {
